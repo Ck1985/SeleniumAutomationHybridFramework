@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Sign in action is successfully performed !]]>
+    </line>
+    <line>
+      <![CDATA[Product Name is not match so that Verification is Failed on Checkout Page]]>
+    </line>
+    <line>
+      <![CDATA[Purchasion is successful performed on Payment Details Page]]>
+    </line>
+    <line>
+      <![CDATA[Verification Name is Passed on Confirmation page]]>
+    </line>
+    <line>
+      <![CDATA[Verification Price is Passed on Confirmation page]]>
+    </line>
+    <line>
+      <![CDATA[Final Verification Product Name is Passed]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="51434" started-at="2018-07-16T19:28:07Z" finished-at="2018-07-16T19:28:59Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="51434" started-at="2018-07-16T19:28:07Z" finished-at="2018-07-16T19:28:59Z">
+      <class name="testCases.TestCase_002">
+        <test-method status="PASS" signature="setupBeforeMethod()[pri:0, instance:testCases.TestCase_002@c038203]" name="setupBeforeMethod" is-config="true" duration-ms="16123" started-at="2018-07-17T02:28:07Z" finished-at="2018-07-17T02:28:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupBeforeMethod -->
+        <test-method status="PASS" signature="main()[pri:0, instance:testCases.TestCase_002@c038203]" name="main" duration-ms="33318" started-at="2018-07-17T02:28:23Z" finished-at="2018-07-17T02:28:57Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Sign in action is successfully performed !]]>
+            </line>
+            <line>
+              <![CDATA[Product Name is not match so that Verification is Failed on Checkout Page]]>
+            </line>
+            <line>
+              <![CDATA[Purchasion is successful performed on Payment Details Page]]>
+            </line>
+            <line>
+              <![CDATA[Verification Name is Passed on Confirmation page]]>
+            </line>
+            <line>
+              <![CDATA[Verification Price is Passed on Confirmation page]]>
+            </line>
+            <line>
+              <![CDATA[Final Verification Product Name is Passed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- main -->
+        <test-method status="PASS" signature="setupAfterMethod()[pri:0, instance:testCases.TestCase_002@c038203]" name="setupAfterMethod" is-config="true" duration-ms="1922" started-at="2018-07-17T02:28:57Z" finished-at="2018-07-17T02:28:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupAfterMethod -->
+      </class> <!-- testCases.TestCase_002 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

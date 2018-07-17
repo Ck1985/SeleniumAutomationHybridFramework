@@ -1,0 +1,8 @@
+AutomationFramework\SeleniumAutomationHybridFramework\App.class
+utility\Utils.class
+appModules\SignIn_Action.class
+pageObjects\LoginPage.class
+utility\ExcelUtils.class
+pageObjects\BasePage.class
+pageObjects\HomePage.class
+utility\Constant.class
