@@ -9689,3 +9689,60 @@ Session ID: d1e846b2-903a-4089-be71-f9aa5bf07426
 2018-07-17 02:28:57,219 INFO  [Log] X 
 2018-07-17 02:28:57,219 INFO  [Log] X 
 2018-07-17 02:28:57,219 INFO  [Log] X 
+2018-07-17 22:17:17,972 INFO  [Log] Excel sheet opened 
+2018-07-17 22:17:17,984 INFO  [Log] ********************************************** 
+2018-07-17 22:17:17,984 INFO  [Log] ********************************************** 
+2018-07-17 22:17:17,984 INFO  [Log] $$$$$$$$$$ TestCase_002 $$$$$$$$$$$$$$ 
+2018-07-17 22:17:17,984 INFO  [Log] ********************************************** 
+2018-07-17 22:17:17,984 INFO  [Log] ********************************************** 
+2018-07-17 22:17:17,984 INFO  [Log] Total row used is: 11 
+2018-07-24 11:29:06,830 INFO  [Log] Excel sheet opened 
+2018-07-24 11:29:06,877 INFO  [Log] ********************************************** 
+2018-07-24 11:29:06,877 INFO  [Log] ********************************************** 
+2018-07-24 11:29:06,877 INFO  [Log] $$$$$$$$$$ TestCase_001 $$$$$$$$$$$$$$ 
+2018-07-24 11:29:06,877 INFO  [Log] ********************************************** 
+2018-07-24 11:29:06,877 INFO  [Log] ********************************************** 
+2018-07-24 11:29:06,878 INFO  [Log] Total row used is: 11 
+2018-07-24 11:29:38,542 INFO  [Log] My Account link is found on Home Page 
+2018-07-24 11:29:41,516 INFO  [Log] Click action is performed on My Account link 
+2018-07-24 11:29:41,848 INFO  [Log] anonymous.vn1985@gmail.com is entered into Username textbox 
+2018-07-24 11:29:42,021 INFO  [Log] 11100001 is entered into Password textbox 
+2018-07-24 11:29:42,152 INFO  [Log] Click action is performed on Submit button 
+2018-07-24 11:29:42,152 INFO  [Log] Log Out link location is found on Home Page 
+2018-07-24 11:29:46,724 INFO  [Log] Product Menu is found on Home Page 
+2018-07-24 11:29:46,771 INFO  [Log] Accessories is found under Product Category 
+2018-07-24 11:29:46,772 INFO  [Log] Product Category Accessories is selected from Top Menu 
+2018-07-24 11:29:49,979 INFO  [Log] Click Action is performed on Product Type 
+2018-07-24 11:29:50,124 INFO  [Log] Product name is found for Product_2 
+2018-07-24 11:29:50,176 INFO  [Log] AddToCart button is found for Product_2 
+2018-07-24 11:29:50,261 INFO  [Log] Alert AddToCart Location is found for Product 2 
+2018-07-24 11:29:50,287 INFO  [Log] Product 2 is selected from ProductList Page 
+2018-07-24 11:29:50,287 INFO  [Log] Alert AddToCart has just surfaced, now we go to Cart. 
+2018-07-24 11:29:53,514 INFO  [Log] GoToCart button is found ProductList Page 
+2018-07-24 11:29:56,559 INFO  [Log] Click Action has just performed on Gotocart button 
+2018-07-24 11:29:56,647 INFO  [Log] Product Name is found on CheckOut Page 
+2018-07-24 11:29:56,731 INFO  [Log] Product Price is found on CheckOut page 
+2018-07-24 11:29:56,761 INFO  [Log] Verification is Passed on Checkout Page 
+2018-07-24 11:29:56,783 INFO  [Log] Continue button is found on CheckOut page 
+2018-07-24 11:29:56,865 INFO  [Log] Action is performed on button continue 
+2018-07-24 11:29:56,902 INFO  [Log] TextBox FirstName is found on Payment Details Page 
+2018-07-24 11:29:57,794 INFO  [Log] FirstName data has just inputed into textbox Firstname 
+2018-07-24 11:29:57,817 INFO  [Log] TextBox LastName is found on Payment Details Page 
+2018-07-24 11:29:57,950 INFO  [Log] LastName data has just inputed into textbox LastName 
+2018-07-24 11:29:57,986 INFO  [Log] TextBox Address is found on Payment Details Page 
+2018-07-24 11:29:58,176 INFO  [Log] Address data has just inputed into textbox Address 
+2018-07-24 11:29:58,207 INFO  [Log] TextBox City is found on Payment Details Page 
+2018-07-24 11:29:58,355 INFO  [Log] City data has just inputed into textbox City 
+2018-07-24 11:29:58,376 INFO  [Log] TextBox Undefined is found on Payment Details Page 
+2018-07-24 11:29:58,934 INFO  [Log] Dropdown Country is found on Payment Details Page 
+2018-07-24 11:29:59,101 INFO  [Log] TextBox Phone is found on Payment Details Page 
+2018-07-24 11:29:59,302 INFO  [Log] Checkbox SameAsBilling is found on Payment Details Page 
+2018-07-24 11:29:59,499 INFO  [Log] Purchase button is found on Payment Details Page 
+2018-07-24 11:30:37,346 INFO  [Log] Click Action is performed on Purchase button 
+2018-07-24 11:30:37,379 INFO  [Log] Product Name is found on Confirmation page 
+2018-07-24 11:30:37,418 INFO  [Log] Product price is found on confirmation page 
+2018-07-24 11:30:37,938 INFO  [Log] ********** -E--N--D-*********** 
+2018-07-24 11:30:37,938 INFO  [Log] X 
+2018-07-24 11:30:37,938 INFO  [Log] X 
+2018-07-24 11:30:37,938 INFO  [Log] X 
+2018-07-24 11:30:37,938 INFO  [Log] X 

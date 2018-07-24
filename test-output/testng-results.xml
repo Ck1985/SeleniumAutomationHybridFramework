@@ -5,7 +5,7 @@
       <![CDATA[Sign in action is successfully performed !]]>
     </line>
     <line>
-      <![CDATA[Product Name is not match so that Verification is Failed on Checkout Page]]>
+      <![CDATA[Verification is Passed on Checkout Page]]>
     </line>
     <line>
       <![CDATA[Purchasion is successful performed on Payment Details Page]]>
@@ -20,22 +20,22 @@
       <![CDATA[Final Verification Product Name is Passed]]>
     </line>
   </reporter-output>
-  <suite name="Default suite" duration-ms="51434" started-at="2018-07-16T19:28:07Z" finished-at="2018-07-16T19:28:59Z">
+  <suite name="Default suite" duration-ms="96955" started-at="2018-07-24T04:29:01Z" finished-at="2018-07-24T04:30:38Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="51434" started-at="2018-07-16T19:28:07Z" finished-at="2018-07-16T19:28:59Z">
-      <class name="testCases.TestCase_002">
-        <test-method status="PASS" signature="setupBeforeMethod()[pri:0, instance:testCases.TestCase_002@c038203]" name="setupBeforeMethod" is-config="true" duration-ms="16123" started-at="2018-07-17T02:28:07Z" finished-at="2018-07-17T02:28:23Z">
+    <test name="Default test" duration-ms="96955" started-at="2018-07-24T04:29:01Z" finished-at="2018-07-24T04:30:38Z">
+      <class name="testCases.TestCase_001">
+        <test-method status="PASS" signature="setupBeforeMethod()[pri:0, instance:testCases.TestCase_001@c038203]" name="setupBeforeMethod" is-config="true" duration-ms="36308" started-at="2018-07-24T11:29:01Z" finished-at="2018-07-24T11:29:38Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setupBeforeMethod -->
-        <test-method status="PASS" signature="main()[pri:0, instance:testCases.TestCase_002@c038203]" name="main" duration-ms="33318" started-at="2018-07-17T02:28:23Z" finished-at="2018-07-17T02:28:57Z">
+        <test-method status="PASS" signature="main()[pri:0, instance:testCases.TestCase_001@c038203]" name="main" duration-ms="59767" started-at="2018-07-24T11:29:38Z" finished-at="2018-07-24T11:30:37Z">
           <reporter-output>
             <line>
               <![CDATA[Sign in action is successfully performed !]]>
             </line>
             <line>
-              <![CDATA[Product Name is not match so that Verification is Failed on Checkout Page]]>
+              <![CDATA[Verification is Passed on Checkout Page]]>
             </line>
             <line>
               <![CDATA[Purchasion is successful performed on Payment Details Page]]>
@@ -51,11 +51,11 @@
             </line>
           </reporter-output>
         </test-method> <!-- main -->
-        <test-method status="PASS" signature="setupAfterMethod()[pri:0, instance:testCases.TestCase_002@c038203]" name="setupAfterMethod" is-config="true" duration-ms="1922" started-at="2018-07-17T02:28:57Z" finished-at="2018-07-17T02:28:59Z">
+        <test-method status="PASS" signature="setupAfterMethod()[pri:0, instance:testCases.TestCase_001@c038203]" name="setupAfterMethod" is-config="true" duration-ms="809" started-at="2018-07-24T11:30:37Z" finished-at="2018-07-24T11:30:38Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setupAfterMethod -->
-      </class> <!-- testCases.TestCase_002 -->
+      </class> <!-- testCases.TestCase_001 -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
